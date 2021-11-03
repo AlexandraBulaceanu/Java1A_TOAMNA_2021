@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TransferValoareVsReferinta
+comment1.params=x
+comment1.target=void\ transferPrinValoare(int)
+comment2.params=a1
+comment2.target=void\ transferPrinReferinta(Angajat)
+comment2.text=void\ transferPrinValoare(Integer\ x)\ {\r\n\ \ \ \ \ \ \ \ x\ \=\ x\ *\ 2;\r\n\ \ \ \ \ \ \ \ System.out.println("x\ in\ metoda\ "+x);\r\n}
+numComments=3
